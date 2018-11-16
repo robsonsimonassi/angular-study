@@ -6,12 +6,12 @@ export const environment = {
   production: false,
 
   firebaseConfig : {
-    apiKey: "AIzaSyDMi98rYcQ_adL_U3l6quQ32S7k1ENT6ak",
-    authDomain: "first-porject-ari.firebaseapp.com",
-    databaseURL: "https://first-porject-ari.firebaseio.com",
-    projectId: "first-porject-ari",
-    storageBucket: "first-porject-ari.appspot.com",
-    messagingSenderId: "803221876122"
+    apiKey: "AIzaSyDj5nnFTo7RXxfAQX-hxVQ9geW71r1gfg4",
+    authDomain: "angular-studye.firebaseapp.com",
+    databaseURL: "https://angular-studye.firebaseio.com",
+    projectId: "angular-studye",
+    storageBucket: "angular-studye.appspot.com",
+    messagingSenderId: "206686028894"
   }
 
 };
